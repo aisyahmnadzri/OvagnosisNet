@@ -6,7 +6,7 @@
 
 **OvagnosisNet** is a deep neural network (DNN) model developed for classifying ovarian cancer prognosis based on clinical and biochemical data. This project leverages machine learning and deep learning methodologies to improve the accuracy of ovarian cancer prognostication—an area of significant clinical challenge due to late-stage diagnoses and complex tumor biology.
 
-This repository is part of my bioinformatics project for the course **Programming for Bioinformatics (SECB3203)** at [Universiti Teknologi Malaysia].
+This repository is part of my bioinformatics project for the course **Programming for Bioinformatics (SECB3203)** at Universiti Teknologi Malaysia (UTM).
 
 ## 🎯 Objectives
 
